@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Monitoring Laporan Bulanan",
+  "description": "Dashboard monitoring data akses dan tindak lanjut per Kepwil dan Kantor Cabang dengan visualisasi grafik, breakdown wilayah, performa agen, dan ledger data interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
